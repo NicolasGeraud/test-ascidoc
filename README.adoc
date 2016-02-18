@@ -1,2 +1,4 @@
 == test-ascidoc
+<<gravitee-management-api-team,Management API : Team Guide>>
+
 include::include.adoc[]
