@@ -17,6 +17,7 @@ Let's get starting out with Management API, try one of our guides :
 * <<gravitee-management-api-team,Management API : Team Guide>>
 
 include::management-api-api.adoc[]
+include::https://raw.githubusercontent.com/NicolasGeraud/test-ascidoc/master/README.adoc[]
 include::management-api-application.adoc[]
 include::management-api-policy.adoc[]
 include::management-api-user.adoc[]
